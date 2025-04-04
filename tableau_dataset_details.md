@@ -25,7 +25,7 @@ The Excel file was cleaned and split into four CSVs using a custom Python script
 
 ## Extracted Tables
 
-### 1. Orders ([orders.csv](../data/orders.csv))
+### 1. Orders (`orders.csv`)
 - Core transaction-level data
 - Fields retained:  
   `Row ID`, `Order ID`, `Order Date`, `Ship Date`, `Ship Mode`, `Customer ID`, `Segment`, `Postal Code`, `Product ID`, `Sales`, `Quantity`, `Discount`, `Profit`
@@ -60,7 +60,8 @@ This dataset was restructured to support clean, filterable Tableau visualization
 
 ---
 
-Special thanks to Baraa Khatib Salkini for his inspiration and excellent tableau instructional materials (LinkedIn: [baraa-khatib-salkini](https://www.linkedin.com/in/baraa-khatib-salkini)).
+Special thanks to Baraa Khatib Salkini for his inspiration and excellent tableau instructional materials: 
+(LinkedIn: [baraa-khatib-salkini](https://www.linkedin.com/in/baraa-khatib-salkini)).
 
 ---
 
