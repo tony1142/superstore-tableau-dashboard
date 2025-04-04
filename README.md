@@ -31,14 +31,16 @@ For detailed structure and transformation notes, see [tableau_dataset_details.md
 
 ## Repository Structure
 
-- **[tableau/](tableau/)** – Tableau workbook and dashboard visuals  
+- **tableau/** – Tableau workbook and dashboard visuals  
   - [tableau_superstore_dashboard_v10.twbx](tableau/tableau_superstore_dashboard_v10.twbx) – Final interactive dashboard  
   - [Screenshots/](tableau/Screenshots/) – Portfolio visuals and demo images  
   - [dashboard_demo.gif](tableau/dashboard_demo.gif) – Animated preview of the dashboard  
-- **[data/](data/)** – Cleaned CSVs and supporting Python script  
+- **data/** – Cleaned CSVs and supporting Python script  
   - [customers.csv](data/customers.csv), [orders.csv](data/orders.csv), [products.csv](data/products.csv), [location.csv](data/location.csv)  
   - [extract_superstore_csvs.py](data/extract_superstore_csvs.py) – Python script used to generate the cleaned datasets  
-- [tableau_dataset_details.md](data/tableau_dataset_details.md) – Dataset structure and transformation notes
+  - [tableau_dataset_details.md](data/tableau_dataset_details.md) – Dataset structure and transformation notes  
+- **docs/** – Supporting documentation  
+  - [calculated_fields.md](docs/calculated_fields.md) – Key calculated fields used in the dashboard
 
 ## Portfolio Page
 
