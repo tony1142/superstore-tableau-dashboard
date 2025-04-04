@@ -13,8 +13,7 @@ The dashboard provides filterable views of sales, profit, and quantity metrics. 
 - A collapsible filter panel and year selector for user-driven exploration
 
 ## Explore the Dashboard
-
-1. Download the Tableau workbook from `tableau/tableau_superstore_dashboard_v10.twbx`  
+1. Download the Tableau workbook: [tableau_superstore_dashboard_v10.twbx](tableau/tableau_superstore_dashboard_v10.twbx) 
 2. Open it in Tableau Desktop (version 2021.4 or later recommended)  
 3. Click any chart element to cross-filter and reveal detailed insights  
 4. Click the **funnel icon** to open the filter panel and explore by segment, region, category, and more
@@ -32,16 +31,16 @@ For detailed structure and transformation notes, see [tableau_dataset_details.md
 
 ## Repository Structure
 
-- **tableau/** – Tableau workbook and dashboard visuals  
-  - `tableau_superstore_dashboard_v10.twbx` – Final interactive dashboard  
-  - `Screenshots/` – Portfolio visuals and demo images  
-  - `dashboard_demo.gif` – Animated preview of the dashboard  
-- **data/** – Cleaned CSVs and supporting Python script  
-  - `customers.csv`, `orders.csv`, `products.csv`, `location.csv`  
-  - `extract_superstore_csvs.py` – Python script used to generate the cleaned datasets
-- **tableau_dataset_details.md** – Dataset structure and transformation notes
+- **[tableau/](tableau/)** – Tableau workbook and dashboard visuals  
+  - [tableau_superstore_dashboard_v10.twbx](tableau/tableau_superstore_dashboard_v10.twbx) – Final interactive dashboard  
+  - [Screenshots/](tableau/Screenshots/) – Portfolio visuals and demo images  
+  - [dashboard_demo.gif](tableau/dashboard_demo.gif) – Animated preview of the dashboard  
+- **[data/](data/)** – Cleaned CSVs and supporting Python script  
+  - [customers.csv](data/customers.csv), [orders.csv](data/orders.csv), [products.csv](data/products.csv), [location.csv](data/location.csv)  
+  - [extract_superstore_csvs.py](data/extract_superstore_csvs.py) – Python script used to generate the cleaned datasets  
+- [tableau_dataset_details.md](tableau_dataset_details.md) – Dataset structure and transformation notes
 
 ## Portfolio Page
 
 For a business-focused walkthrough and summary, visit my portfolio page:  
-[Tableau Superstore Sales Dashboard](https://tonynick.notion.site/Tableau-Superstore-Sales-Dashboard-1ca9c67da0d480a6ad81fbc3b0add2b5#1ca9c67da0d480dfacbee63a723d7970
+[Tableau Superstore Sales Dashboard](https://tonynick.notion.site/Tableau-Superstore-Sales-Dashboard-1ca9c67da0d480a6ad81fbc3b0add2b5)
