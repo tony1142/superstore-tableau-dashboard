@@ -96,4 +96,27 @@ Used to troubleshoot tooltip logic and visual alignment in trend charts.
 
 ---
 
+## Visual Formatting Details
+
+### Custom Formatting – % Differences
+Used in the KPI cards and tooltips to visually emphasize performance direction.
+
+**Format used:**
+▲ 0.0%; ▼ -0.0%;
+
+This displays:
+- Upward arrows (`▲`) for positive differences  
+- Downward arrows (`▼`) for negative differences  
+- Values rounded to one decimal place
+
+---
+
+### Custom Formatting – Category Legends & Labels
+Used for consistent legend styling and sub-headings.
+
+**Format used:**
+⬤ Above   ⬤ Below
+
+The bullet circles (`⬤`) are Unicode characters used to give the impression of labeled indicators. These were placed in legends and titles to reflect conditional color formatting (distinguishing Weekly Profit above or below $0, or flagging sub-category sales that declined compared to the previous year).
+
 *Created by Tony Nick*
