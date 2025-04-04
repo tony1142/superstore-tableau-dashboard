@@ -38,7 +38,7 @@ For detailed structure and transformation notes, see [tableau_dataset_details.md
 - **[data/](data/)** – Cleaned CSVs and supporting Python script  
   - [customers.csv](data/customers.csv), [orders.csv](data/orders.csv), [products.csv](data/products.csv), [location.csv](data/location.csv)  
   - [extract_superstore_csvs.py](data/extract_superstore_csvs.py) – Python script used to generate the cleaned datasets  
-- [tableau_dataset_details.md](tableau_dataset_details.md) – Dataset structure and transformation notes
+- [tableau_dataset_details.md](data/tableau_dataset_details.md) – Dataset structure and transformation notes
 
 ## Portfolio Page
 
