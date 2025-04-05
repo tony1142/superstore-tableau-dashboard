@@ -11,6 +11,7 @@ The dashboard provides filterable views of sales, profit, and quantity metrics. 
 - Side-by-side sub-category comparisons for sales and profit  
 - Cross-filtering and hover tooltips for deeper insights  
 - A collapsible filter panel and year selector for user-driven exploration
+- Dashboard styled using University of California’s secondary color palette to enhance consistency and visual clarity.
 
 ## Explore the Dashboard
 1. Download the Tableau workbook: [tableau_superstore_dashboard_v10.twbx](tableau/tableau_superstore_dashboard_v10.twbx) 
