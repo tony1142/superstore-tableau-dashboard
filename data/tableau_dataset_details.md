@@ -65,6 +65,29 @@ Special thanks to Baraa Khatib Salkini for his inspiration and excellent tableau
 
 ---
 
+## Color Palette
+
+This dashboard applies a refined visual identity using secondary colors from the University of California brand guidelines. The selected palette enhances visual clarity while maintaining consistency across charts, filter panels, and typography.
+
+**Color Usage:**
+
+| Usage Area                             | Color Name     | Hex       |
+|----------------------------------------|----------------|-----------|
+| Filter panel background, headers, title bar | UC Blue        | `#005581` |
+| Weekly trend lines (Sales & Profit)    | Light Blue     | `#72CDF4` |
+| Weekly trend loss values, profit/loss bar divergence | Pink           | `#E44C9A` |
+| KPI and legend labels (headers, filters) | Dark Gray      | `#171717` |
+| Tooltip text and secondary labels      | Gray           | `#4C4C4C` |
+| Sub-category bars and neutral sparkline fill | UC Gray        | `#7C7E7F` |
+| Sparkline fill and subtle accent tiles | Warm Gray 8    | `#8F8884` |
+| Backgrounds, padding, and light containers | Warm Gray 1    | `#DBD5CD` |
+
+These colors were chosen for their legibility, contrast, and visual coherence. Pink was used consistently to signal loss (e.g., negative profit), while blue tones conveyed performance trends. Grays served to balance typography and layout elements without drawing undue attention.
+
+Reference: [UC Brand Guidelines – Color](https://brand.universityofcalifornia.edu/guidelines/identity/color.html)
+
+---
+
 ## Portfolio Page
 
 For a walkthrough and project summary, visit:  
